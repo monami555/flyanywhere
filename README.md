@@ -1,4 +1,3 @@
-flyanywhere
-===========
+The OpenShift `nodejs` cartridge documentation can be found at:
 
-Fly anywhere project
+http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
